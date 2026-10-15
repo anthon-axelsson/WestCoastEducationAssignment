@@ -2,7 +2,7 @@
 
 public class Teacher : Person
 {
- public string SubjectArea { get; set; }  
+ public string? SubjectArea { get; set; }  
  public List<string> ResponsibleCourses { get; set; } = new List<string>();
     public override string GetDetails()
     {
