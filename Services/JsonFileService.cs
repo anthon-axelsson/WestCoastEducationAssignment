@@ -22,7 +22,6 @@ public static class JsonFileService
 
     public static List<T> LoadData<T>(string filePath)
     {
-        // Se till att mappen (t.ex. Data) existerar
         string? directory = Path.GetDirectoryName(filePath);
         if (!string.IsNullOrEmpty(directory))
         {
