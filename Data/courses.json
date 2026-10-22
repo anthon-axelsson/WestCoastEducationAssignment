@@ -1,0 +1,16 @@
+[
+  {
+    "courseNumber": "1",
+    "title": "c#",
+    "durationInWeeks": 65,
+    "startDate": "2026-10-20T11:50:03.7739345+02:00",
+    "endDate": "2028-01-18T11:50:03.7780268+01:00"
+  },
+  {
+    "courseNumber": "346456",
+    "title": "fheth",
+    "durationInWeeks": 2000,
+    "startDate": "2026-10-20T11:55:41.1107192+02:00",
+    "endDate": "2065-02-17T11:55:41.1107404+01:00"
+  }
+]
